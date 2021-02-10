@@ -1,0 +1,34 @@
+#header {
+    background-color: #7ED33C;
+}
+
+#menu {
+    background-color: black;
+}
+
+#m {
+    background-color: #7ED33C;
+    color: white;
+    font-size: 25px;
+}
+
+#m,
+iframe {
+    text-align: center;
+}
+
+#home {
+    width: 100%;
+    height: 250px;
+    background-color: #7ED33C;
+}
+
+#contact {
+    background-color: #7ED33C;
+    text-align: center;
+}
+
+img {
+    margin-left: 350px;
+    margin-right: -50px;
+}
